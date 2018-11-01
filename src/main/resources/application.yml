@@ -1,0 +1,8 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+  mvc:
+    view:
+      suffix: ".jsp"
+      prefix: "/WEB-INF/"
